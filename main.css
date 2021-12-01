@@ -1,0 +1,33 @@
+*{
+    font-family: poppins extralight, sans serif;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    padding: 5px;
+    
+
+}
+
+#button{
+margin-top: 10px;
+}
+
+form{
+    
+    padding: 50px;
+}
+
+#sonuc{
+    border: 1px solid black;
+}
+
+#aracTipi,#aracYili{
+    width: 10rem;
+    display: inline-block;
+    justify-content: center;
+}
+
+h5{
+    width: 30rem; display: inline-block; justify-content: center;
+}
+
